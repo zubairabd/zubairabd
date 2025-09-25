@@ -30,7 +30,7 @@ A powerful web-scraping tool leveraging Python and Google Colab. Built to automa
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Statistik GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinf_zub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairabd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration.
